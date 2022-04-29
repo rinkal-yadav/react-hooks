@@ -6,6 +6,8 @@ function Navbar (){
         <ul className="flexNavbar" type='none'>
             <li> <Link to='/usestate' style={{textDecoration:"none"}}> useState Hook </Link>  </li>
             <li> <Link to='/useeffect' style={{textDecoration:"none"}}> useEffect Hook </Link>  </li>
+            <li> <Link to='/usecontext' style={{textDecoration:"none"}}> useContext Hook </Link>  </li>
+
 
         </ul>
     )
